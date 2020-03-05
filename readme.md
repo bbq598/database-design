@@ -1,0 +1,2 @@
+#Description
+This project is to design a real databse for an application include use cases and fields, ERD, specialization generalization relationships, normalization, tables and constraints, reusable, transaction oriented store procedures, history table and questions and queries. 
